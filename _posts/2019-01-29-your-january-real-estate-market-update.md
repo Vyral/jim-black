@@ -30,8 +30,6 @@ Sales are down 2% year over year. The low inventory we’ve been experiencing ha
 
 **If you’re a buyer, you’re going to have an easier time finding homes in 2019.** Since prices keep rising, you’ll want to jump on a home before higher costs put you out of the market. You’ll still experience some competition, but with the low interest rates we’re currently experiencing, you’ll have more buying power.
 
-**If you’re a seller, it’s still a good time to put your home on the market.** As inventory continues to increase, however, you’ll start to experience competition among other sellers. You’ll need to make sure your home can stand out above the crowd. Though the average sales price is increasing, you don’t want to make the mistake of overpricing your home—that’s a great way to make buyers flock away from your listing. If you’re worried about the lower number of year-to-year sales, it’s most likely just a result of low inventory. Buyers still want to buy.
+**If you’re a seller, it’s still a good time to put your home on the market.** As inventory continues to increase, however, you’ll start to face competition among other sellers. You’ll need to make sure your home can stand out above the crowd. Though the average sales price is increasing, you don’t want to make the mistake of overpricing your home—that’s a great way to drive buyers away from your listing. If you’re worried about the lower number of year-to-year sales, it’s most likely just a result of low inventory. Buyers still want to buy.
 
 If you want to find out about your specific situation, have any questions, or need more information, feel free to reach out to me. I look forward to hearing from you soon.
-
-&nbsp;
