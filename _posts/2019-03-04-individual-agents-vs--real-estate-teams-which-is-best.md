@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Individual Agents vs. Real Estate Teams: Which is Best?'
-date: 2019-03-04 17:16:18
+title: 'Individual Agents vs. Real Estate Teams: Which Is Best?'
+date: 2019-03-04 17:16:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: 9ioBDH0IQUE
 
 There is a huge difference between hiring a team of agents to sell your home as opposed to working with a solo Realtor.
 
-Take the Jim Black Group, for example. **We’ve got a team of nine experienced professionals all working on behalf of you, our clients, to best serve your needs.** By working collaboratively, we’re each able to focus on our strength, while simultaneously ensuring that someone is always available to help you. In short, by hiring us you get nine agents for the price of one.
+Take the Jim Black Group, for example. **We’ve got a team of nine experienced professionals all working on behalf of you, our clients, to best serve your needs.** By working collaboratively, we’re each able to focus on our strengths while simultaneously ensuring that someone is always available to help you. In short, by hiring us, you get nine agents for the price of one.
 
 Not only do we have team members solely focused on the sale of your home, but we also have a photographer, a stager, a transaction coordinator, and a marketing manager—all working together to make sure your listing experience is smooth and successful.
 
