@@ -20,7 +20,7 @@ youtube_code: ipLDM4SWEMc
 
 {% include youtube.html %}
 
-As a home seller, here are the five questions you must ask each agent you interview before you hire them:&nbsp;
+As a home seller, here are the five questions you must ask each agent you interview before you hire one:&nbsp;
 
 **1. Do you work independently or as part of a team?** When you meet with an agent face to face, are they picking up their phone every time it rings? If they’re a part of a team, they’ll most likely have someone back at their office answering calls for them, which gives them more time to devote to you.&nbsp;
 
