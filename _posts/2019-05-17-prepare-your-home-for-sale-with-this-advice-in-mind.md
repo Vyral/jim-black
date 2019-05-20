@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prepare Your Home for Sale With This Advice in Mind
-date: 2019-05-17 20:48:23
+date: 2019-05-17 20:48:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zbndOge6CUQ
+youtube_code: yOq2N6NLk-U
 ---
 
 {% include youtube.html %}
