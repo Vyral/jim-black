@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Low Interest Rates Mean for Buyers and Sellers
-date: 2019-09-04 14:44:18
+date: 2019-09-04 14:44:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: bNVXWoUD4Vo
 
 We have some exciting news to share with you today. **Interest rates are at an all-time low right now.** For homebuyers, this means that you can afford a lot more house than you could have in the past. You might even be able to afford that dream home now.
 
-This news is good for sellers as well. **With rates so low, a lot more buyers will continue to come looking for homes in the market.** There simply isn’t enough inventory for all of them so you can get a great price for your property.
+This news is good for sellers as well. **With rates so low, a lot more buyers will continue to come looking for homes in the market.** There simply isn’t enough inventory for all of them, so you can get a great price for your property.
 
 {% include pullquote.html %}
 
