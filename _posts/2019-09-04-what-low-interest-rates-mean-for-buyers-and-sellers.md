@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Interest rates continue to drop, which means great things for buyers and
   sellers. Here’s what we’re talking about.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jim+Black/Interest+Rates+Are+Low+-Worcester+Real+Estate+Agent.mp4
 pullquote: 'We are licensed to operate in Massachusetts, Connecticut, and Rhode Island.'
 enclosure_type: video/mp4
 enclosure_time:
