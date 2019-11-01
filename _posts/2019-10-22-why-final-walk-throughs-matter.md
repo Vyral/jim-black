@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Final Walk-Throughs Matter
-date: 2019-10-22 21:21:24
+date: 2019-10-22 21:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GhBTI1Gsug0
+youtube_code: UbRD2jDGblI
 ---
 
 {% include youtube.html %}
 
 Buyers sometimes ask me why the final walk-through matters. Sometimes, people falsely assume that this process is yet another home inspection, but this isn’t the case.&nbsp;
 
-The point of a final walk-through is to ensure that the property is in condition the buyer and seller have agreed upon per their purchase contract. **The final walk-through allows buyers to verify that all promised repairs were made, all items that come with the home have been left in place, and that no new damage has occurred.**
+The point of a final walk-through is to ensure that the property is in the condition the buyer and seller have agreed upon per their purchase contract. **The final walk-through allows buyers to verify that all promised repairs were made, all items that come with the home have been left in place, and that no new damage has occurred.**
 
 {% include pullquote.html %}
 
